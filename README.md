@@ -1,6 +1,6 @@
 # ACTIVITY-IN-DATA-SCIENCE
-### NAME: HASNA MUBARAK AZEEM
-### REG NO: 212223240052
+### NAME: SHARON STEFFANI.F
+### REG NO: 212223110049
 
 ### 1. Write a Python program to select the 'name' and 'score' columns from the following DataFrame.
 ```
